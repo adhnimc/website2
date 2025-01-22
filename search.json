@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Adhni Mulachela",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nPublic Transport Transit Time Analysis\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nAFL Grand Final\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nnycflights13\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2019\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nRethinking Olympic Strategies\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2017\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nPublic Transport Transit Time Analysis\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nAFL Grand Final\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nnycflights13\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2019\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nFIFA Ranking by GDP per Capita\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nRethinking Olympic Strategies\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2018\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/afl/AFL2.html",
@@ -138,5 +138,19 @@
     "title": "Berlin Marathon 2017",
     "section": "",
     "text": "This analysis explores the 2017 Berlin Marathon data."
+  },
+  {
+    "objectID": "posts/Fifa rank/fifa_rank.html",
+    "href": "posts/Fifa rank/fifa_rank.html",
+    "title": "FIFA Ranking by GDP per Capita",
+    "section": "",
+    "text": "No trace type specified:\n  Based on info supplied, a 'scatter' trace seems appropriate.\n  Read more about this trace type -&gt; https://plotly.com/r/reference/#scatter"
+  },
+  {
+    "objectID": "posts/Fifa rank/fifa_rank.html#quarto",
+    "href": "posts/Fifa rank/fifa_rank.html#quarto",
+    "title": "FIFA Ranking by GDP per Capita",
+    "section": "",
+    "text": "No trace type specified:\n  Based on info supplied, a 'scatter' trace seems appropriate.\n  Read more about this trace type -&gt; https://plotly.com/r/reference/#scatter"
   }
 ]
