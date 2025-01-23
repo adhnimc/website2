@@ -46,7 +46,7 @@
     "href": "index.html",
     "title": "Adhni Mulachela",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nPublic Transport Transit Time Analysis\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nAFL Grand Final\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nnycflights13\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2019\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nFIFA Ranking by GDP per Capita\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nRethinking Olympic Strategies\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2018\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nPublic Transport Transit Time Analysis\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nAFL Grand Final\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nnycflights13\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nIMDB Ratings - Indonesian Movies\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2019\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nFIFA Ranking by GDP per Capita\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nRethinking Olympic Strategies\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\n\n\n\n\n\n\nBerlin Marathon 2018\n\n\n\n\n\n\nArticle\n\n\n\n\n\n\n\n\n\nAdhni Mulachela\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/afl/AFL2.html",
@@ -152,5 +152,12 @@
     "title": "FIFA Ranking by GDP per Capita",
     "section": "",
     "text": "No trace type specified:\n  Based on info supplied, a 'scatter' trace seems appropriate.\n  Read more about this trace type -&gt; https://plotly.com/r/reference/#scatter"
+  },
+  {
+    "objectID": "posts/movies/Movie.html",
+    "href": "posts/movies/Movie.html",
+    "title": "IMDB Ratings - Indonesian Movies",
+    "section": "",
+    "text": "Director Name\nMovie Count\nAverage Rating\nAverage Vote Count\n\n\n\n\nAngga Dwimas Sasongko\n8\n6.8\n966.0\n\n\nMonty Tiwa\n6\n6.6\n155.7\n\n\nJoko Anwar\n7\n6.5\n4143.0\n\n\nUpi Avianto\n6\n6.5\n562.6\n\n\nAwi Suryadi\n7\n6.4\n643.7\n\n\nHanung Bramantyo\n14\n6.3\n367.1\n\n\nRudy Soedjarwo\n6\n6.2\n433.6\n\n\nGuntur Soeharjanto\n7\n6.1\n275.3\n\n\nRizal Mantovani\n9\n5.7\n235.4\n\n\nAnggy Umbara\n11\n5.4\n375.8\n\n\nHadrah Daeng Ratu\n6\n5.4\n664.0\n\n\nHelfi C.H. Kardit\n9\n5.2\n96.7"
   }
 ]
