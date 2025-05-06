@@ -165,7 +165,7 @@
     "href": "posts/Pilpres V Pileg/PilpresvPileg.html",
     "title": "2024 Pilpres vs Pileg Party Coalition Vote Percentages",
     "section": "",
-    "text": "This analysis compares the 2024 Indonesian presidential election (Pilpres) results with the legislative coalition (Pileg) vote percentages for each candidate’s supporting parties. By examining how closely aligned the support levels are across regions, we can see where coalition strength matched or differed from the presidential vote. The interactive plots help visualize these differences for Anies Baswedan, Prabowo Subianto, and Ganjar Pranowo, along with a summary of regions with the biggest gaps."
+    "text": "This analysis compares the 2024 Indonesian presidential election (Pilpres) results with the legislative coalition (Pileg) vote percentages for each candidate’s supporting parties. By examining how closely aligned the support levels are across regions, we can see where coalition strength matched or differed from the presidential vote. The interactive plots help visualize these differences for Anies Baswedan, Prabowo Subianto, and Ganjar Pranowo, along with a summary of regions with the biggest gaps.\n\nAnies Baswedan\n\n\n\n\n\n\n\n\n\n\n\n\nPrabowo Subianto\n\n\n\n\n\n\n\n\n\n\n\n\nGanjar Pranowo\n\n\n\n\n\n\n\n\n\n\n\n\nDifferences"
   },
   {
     "objectID": "posts/Air Pollution/report.html",
@@ -271,5 +271,47 @@
     "title": "Distribution of Schools and Population in DKI Jakarta",
     "section": "",
     "text": "This analysis explores the distribution and characteristics of schools (SD, SMP, SMA — categorized into Negeri and Swasta) in Jakarta, alongside the population size and density of each Kelurahan.\n\nUsing interactive maps, datatables, scatter plots, and funnel plots, we examine:\nHow schools are spatially distributed and categorized across Kelurahan and Kota.\nThe relationship between population size and availability of schools.\nThe balance between Negeri and Swasta schools at the Kelurahan level.\nThe proportional distribution of school types from primary (SD) to secondary (SMP, SMA) education.\n\nColor coding by Kota (City) and interactive elements allow a deeper understanding of regional variations and potential educational infrastructure gaps across Jakarta.\n\nMap of Schools by Type and Status\nInteractive map showing locations of SD/SMP/SMA, colored by type and status (Negeri/Swasta).\n\n\n\n\n\n\n\n\nPopulation Density Map\nInteractive map coloring Kelurahan by population density (people/km²).\n\n\n\n\n\n\n\n\nPopulation vs. Area Scatter Plot\nScatter plot showing how population size relates to area size across Kelurahan, colored by Kota.\n\n\n\n\n\n\n\n\nTop Kelurahan by Total Schools Table\nSortable, searchable table listing Kelurahan with the most schools (SD, SMP, SMA counts shown).\n\n\n\n\n\n\n\n\nNegeri vs. Swasta Scatter Plot\nScatter plot comparing number of Negeri vs Swasta schools per Kelurahan, with Kota coloring and a reference line y = x.\n\n\n\n\n\n\n\n\nPopulation vs. Total Schools Scatter Plot\nScatter plot showing how population relates to number of schools, colored by Kota.\n\n\n\n\n\n\n\n\nSchool Type Count Funnel\nStacked funnel plot showing number of SD, SMP, SMA schools, split by Negeri and Swasta.\n\n\n\n\n\n\n\n\nSchool Type Proportion Funnel\nStacked proportional funnel plot showing percentage split of Negeri vs Swasta across SD, SMP, SMA."
+  },
+  {
+    "objectID": "posts/ggmaps/ggmaps_web.html#brisbane-bne",
+    "href": "posts/ggmaps/ggmaps_web.html#brisbane-bne",
+    "title": "Public Transport Transit Time Analysis",
+    "section": "Brisbane (BNE)",
+    "text": "Brisbane (BNE)"
+  },
+  {
+    "objectID": "posts/ggmaps/ggmaps_web.html#perth-per",
+    "href": "posts/ggmaps/ggmaps_web.html#perth-per",
+    "title": "Public Transport Transit Time Analysis",
+    "section": "Perth (PER)",
+    "text": "Perth (PER)"
+  },
+  {
+    "objectID": "posts/ggmaps/ggmaps_web.html#singapore-sin",
+    "href": "posts/ggmaps/ggmaps_web.html#singapore-sin",
+    "title": "Public Transport Transit Time Analysis",
+    "section": "Singapore (SIN)",
+    "text": "Singapore (SIN)"
+  },
+  {
+    "objectID": "posts/ggmaps/ggmaps_web.html#kuala-lumpur-kul",
+    "href": "posts/ggmaps/ggmaps_web.html#kuala-lumpur-kul",
+    "title": "Public Transport Transit Time Analysis",
+    "section": "Kuala Lumpur (KUL)",
+    "text": "Kuala Lumpur (KUL)"
+  },
+  {
+    "objectID": "posts/ggmaps/ggmaps_web.html#bangkok-bkk",
+    "href": "posts/ggmaps/ggmaps_web.html#bangkok-bkk",
+    "title": "Public Transport Transit Time Analysis",
+    "section": "Bangkok (BKK)",
+    "text": "Bangkok (BKK)"
+  },
+  {
+    "objectID": "posts/ggmaps/ggmaps_web.html#london-ldn",
+    "href": "posts/ggmaps/ggmaps_web.html#london-ldn",
+    "title": "Public Transport Transit Time Analysis",
+    "section": "London (LDN)",
+    "text": "London (LDN)"
   }
 ]
